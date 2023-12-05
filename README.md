@@ -2,7 +2,7 @@
 
 - **Data de Nascimento:** 13/09/1987 
 - **Estado Civil:** Casado
-- **Endereço:** Rua Benedito Nepomuceno, 33 – Caputera, Caraguatatuba/SP
+- **Endereço:** Rua Benedito Aires Nepomuceno, 33 – Caputera, Caraguatatuba/SP
 - **Telefone/WhatsApp:** 12982653817 / 12982095013
 - **E-mail:** natan.amaral.barros@gmail.com
 
