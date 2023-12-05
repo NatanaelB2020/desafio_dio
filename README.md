@@ -1,6 +1,6 @@
 ## Natanael Amaral de Barros
 
-- **Data de Nascimento:** 13/09/1987 (35 anos)
+- **Data de Nascimento:** 13/09/1987 
 - **Estado Civil:** Casado
 - **Endereço:** Rua Benedito Nepomuceno, 33 – Caputera, Caraguatatuba/SP
 - **Telefone/WhatsApp:** 12982653817 / 12982095013
