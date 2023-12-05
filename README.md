@@ -20,9 +20,6 @@
   - *Curso: Sistemas da Informação*
   - Agosto de 2009 - Fevereiro de 2013
 
-## Cursos
-
-- ...
 
 ## Experiência Profissional
 
